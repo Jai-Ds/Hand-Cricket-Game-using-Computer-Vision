@@ -1,2 +1,2 @@
 # Hand-Cricket-Game-using-Computer-Vision
-Created an interactive Hand-Cricket game using OpenCV python.
+Created an interactive Hand-Cricket game using OpenCV python. Hand cricket is played through gestures (called 'throws') similar to rock paper scissors. The total number of fingers extended equates to the equivalent number, with a thumb counting as 6. Throws are made simultaneously by both players, one designated as the batter and the other as the bowler. Runs scored according to the batter's throws until the bowler throws the same, in which case the batter is "out".
